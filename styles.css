@@ -1,0 +1,23 @@
+#box {
+	height: 150px;
+	width: 670px;
+	margin-left: 148px;
+	border: 5px solid black;
+	padding-bottom: 40px;
+	padding-top: 8px;
+}
+#team {
+	margin-left: 340px;
+	font-size: 35px;
+	margin-top: 10px;
+}
+#compat {
+	margin-top: -63px;
+	margin-left: 10px;
+}
+.firstindent {
+	margin-top: 100px;
+}
+.boxindent {
+	margin-top: 50px;
+}
