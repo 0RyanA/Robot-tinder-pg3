@@ -1,38 +1,41 @@
 #box {
-	height: 150px;
-	width: 670px;
-	margin-left: 148px;
-	border: 5px solid black;
-	padding-bottom: 40px;
-	padding-top: 8px;
+    height: 150px;
+    width: 670px;
+    margin-left: 148px;
+    border: 5px solid black;
+    padding-bottom: 40px;
+    padding-top: 8px;
 }
 #team {
-	margin-left: 340px;
-	font-size: 35px;
-	margin-top: 10px;
+    margin-left: 340px;
+    font-size: 35px;
+    margin-top: 10px;
 }
 #compat {
-	margin-top: -63px;
-	margin-left: 10px;
+    margin-top: -63px;
+    margin-left: 10px;
 }
 #back {
-	margin-left: 0px;
-	height: 80px;
-	width: 100px;
-	font-size: 43px;
-	background-color: #ABA8B2;
+    margin-left: 0px;
+    height: 80px;
+    width: 100px;
+    font-size: 43px;
+    background-color: #c4433f;
 }
 .firstindent {
-	margin-top: 130px;
+    margin-top: 130px;
 }
 .boxindent {
-	margin-top: 50px;
+    margin-top: 50px;
+}
+.secondindent{
+    margin-top: 50px
 }
 .topbar {
-	height: 80px;
-	width: 1000px;
-	position: fixed;
-	background-color: #ABA8B2;
-	margin-top: -130px;
-	margin-left: -8px
+    height: 80px;
+    width: 1000px;
+    position: fixed;
+    background-color: #bd3535;
+    margin-top: -130px;
+    margin-left: -8px
 }
