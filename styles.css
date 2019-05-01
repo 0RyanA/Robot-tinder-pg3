@@ -2,7 +2,7 @@ body {
 	background-color: #ABA8B2
 }
 #box {
-    height: 150px;
+    height: 180px;
     width: 800px;
     margin-left: 80px;
     border: 5px solid black;
@@ -12,10 +12,10 @@ body {
     background-color:#C4BAD6
 }
 #text {
-	height: 70px;
-    width: 791px;
+	height: 103px;
+    width: 792px;
     margin-left: -1px;
-    border: 5px solid black;
+    border: 3px solid black;
     border-radius: 25px;
     padding-bottom: 40px;
     padding-top: 8px;
